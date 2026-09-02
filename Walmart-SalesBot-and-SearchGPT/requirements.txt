@@ -1,4 +1,4 @@
-langchain>=0.0.281
+langchain>=1.3.18
 openai==0.28 
 tqdm>=4.65.0
 black>=23.3.0
@@ -9,7 +9,7 @@ chromadb>=0.3.29
 tiktoken>=0.4.0
 pytest-asyncio
 litellm>=0.1.558
-Pydantic==1.10.7
+Pydantic==2.13.5
 faiss-cpu==1.7.4
 pinecone-client==2.2.4
 python-dotenv
