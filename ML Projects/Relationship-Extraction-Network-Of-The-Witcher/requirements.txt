@@ -4,7 +4,7 @@ attrs==23.1.0
 backcall==0.2.0
 blis==0.7.10
 catalogue==2.0.9
-certifi==2023.7.22
+certifi==2026.10.19
 cffi==1.15.1
 charset-normalizer==3.2.0
 click==8.1.7
@@ -44,7 +44,7 @@ pandas==2.1.0
 parso==0.8.3
 pathy==0.10.2
 pickleshare==0.7.5
-Pillow==10.0.0
+Pillow==13.0.0
 platformdirs==3.10.0
 preshed==3.0.8
 prompt-toolkit==3.0.39
